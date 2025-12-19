@@ -1,4 +1,4 @@
-readme_content = """# ⛩️ AnimeRate-Predictor
+⛩️ AnimeRate-Predictor
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -52,4 +52,4 @@ A high-performance machine learning pipeline designed to classify anime ratings 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/AnimeRate-Predictor.git](https://github.com/yourusername/AnimeRate-Predictor.git)
+   git clone [https://github.com/yourusername/AnimeRate-Predictor.git](https://github.com/AtharvaS12/AnimeRate-Predictor.git)
